@@ -60,7 +60,7 @@ const Work = () => {
                             <a href="https://github.com/Denisiuss/weather-react-app">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
-                            <a href="https://reactweatherapp-q0ge.onrender.com">
+                            <a href="https://weather-react-app-kappa-five.vercel.app/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
                             </a>
                         </div>
@@ -74,10 +74,10 @@ const Work = () => {
                             Website Portfolio 
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="">
+                            <a href="https://github.com/Denisiuss/Portfolio">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
-                            <a href="">
+                            <a href="https://portfolio-seven-weld-38.vercel.app/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
                             </a>
                         </div>
