@@ -4,7 +4,6 @@ import WeatherApp from '../Assets/WeatherApp.png'
 import GoogleTranslate from '../Assets/GoogleTranslate.png'
 import Website from '../Assets/WebsitePortfolio.png'
 import ToDoApp from '../Assets/ToDoApp.png'
-import Wordle from '../Assets/Wordle.png'
 import Netflix from '../Assets/Netflix.png'
 
 const Work = () => {
